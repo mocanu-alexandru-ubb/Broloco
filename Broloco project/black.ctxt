@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=black
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Black_White_filter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=act
+comment1.target=void\ set_action(int)
+comment2.params=mapp
+comment2.target=void\ set_map(greenfoot.World)
+comment3.params=a\ b
+comment3.target=void\ set_for_fight(int,\ int)
+comment4.params=
+comment4.target=void\ take_action()
+comment5.params=
+comment5.target=void\ reverse()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

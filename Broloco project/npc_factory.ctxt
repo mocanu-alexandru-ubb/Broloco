@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=npc_factory
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ npc_factory\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Map_3
+comment1.target=void\ addedToWorld(greenfoot.World)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=effect
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ effect\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=void\ set_anim(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

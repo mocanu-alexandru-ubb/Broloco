@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=choice_engine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ choice_engine\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ delete()
+comment2.params=
+comment2.target=int\ get_answer()
+comment3.params=number\ choices
+comment3.target=void\ set_choices(int,\ java.lang.String[])
+comment4.params=
+comment4.target=void\ act()
+numComments=5
