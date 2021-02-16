@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Template
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Template\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ set_lava()
+comment10.params=map\ main
+comment10.target=void\ generate(int[][],\ boolean)
+comment11.params=
+comment11.target=Template()
+comment2.params=
+comment2.target=int\ get_bgm()
+comment3.params=new_sfx\ def
+comment3.target=void\ set_sfx(soundplayer,\ int)
+comment4.params=
+comment4.target=soundplayer\ get_sfx()
+comment5.params=
+comment5.target=Player\ get_player()
+comment6.params=coord_x\ coord_y\ pl
+comment6.target=boolean\ set_coord(int,\ int,\ Player)
+comment7.params=new_player
+comment7.target=void\ set_player(Player)
+comment8.params=
+comment8.target=text_box\ get_txt()
+comment9.params=new_txt
+comment9.target=void\ set_txt(text_box)
+numComments=12

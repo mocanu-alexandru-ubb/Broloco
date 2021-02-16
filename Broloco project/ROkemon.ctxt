@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ROkemon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ROkemon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=poke_id\ is_enemy
+comment1.target=void\ set_poke(int,\ boolean)
+comment2.params=
+comment2.target=int\ get_id()
+numComments=3

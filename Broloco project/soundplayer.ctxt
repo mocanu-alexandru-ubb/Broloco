@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=soundplayer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ soundplayer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ set_volume()
+comment2.params=i
+comment2.target=void\ play_bgm(int)
+comment3.params=
+comment3.target=void\ close()
+comment4.params=i
+comment4.target=void\ pause(int)
+comment5.params=i
+comment5.target=void\ stop(int)
+comment6.params=i
+comment6.target=boolean\ is_playing(int)
+comment7.params=i
+comment7.target=void\ play_loop(int)
+comment8.params=i
+comment8.target=void\ play(int)
+numComments=9

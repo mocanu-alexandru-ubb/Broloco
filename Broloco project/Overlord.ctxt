@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Overlord
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Overlord\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ refresh_keys()
+comment2.params=key
+comment2.target=boolean\ pressed(java.lang.String)
+comment3.params=Template
+comment3.target=void\ addedToWorld(greenfoot.World)
+numComments=4
